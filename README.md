@@ -7,3 +7,8 @@ In addition CatBoost rmse score was 25465.4868 before hyper optimization. After 
 [
 ![ev](https://github.com/user-attachments/assets/d75236c6-8357-418b-b20e-46d42cb8d308)
 ](url)
+
+# Datasets
+We have a data set of 79 variables and with this data set we will produce a model that will predict prices according to house features.
+
+[https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques](url)
